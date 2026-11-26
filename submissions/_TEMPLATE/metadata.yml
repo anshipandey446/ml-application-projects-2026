@@ -1,11 +1,11 @@
-# Copy this folder to submissions/P<NN>_<UniversityRollNo>/ and fill in every field.
-problem_number: P00            # e.g. P07
-university_roll_no: "0000000000"
-name: "Your Full Name"
-paper_title: "Title of your revised article"
-article_type: "Original Research Article"   # or Applied Paper, Case Study, Comparative Study, Short Communication, Data Article
-code_repository: "https://github.com/<your-username>/<your-project-repo>"
-dataset_source: "Name of the dataset and its URL"
-dataset_licence: "e.g. GODL-India, CC BY 4.0"
-target_venue: "Conference or journal you plan to submit to (optional)"
-revision: 1                    # increase by 1 each time you push a new version after review
+
+problem_number: "P64"
+university_roll_no: 24075570066
+name: "Anshi Pandey"
+paper_title: "Clustering Indian States and Union Territories Based on Forest Cover and Its Changes Using Machine Learning"
+article_type: "Case Study"
+code_repository: "https://github.com/anshipandey446/Forest-Cover-Clustering"
+dataset_source: "State/UT-wise Forest Cover as per India State of Forest Report 2021 - https://ap.data.gov.in/resource/stateuts-wise-forest-cover-india-state-forest-report-isfr-during-2021"
+dataset_licence: "Government Open Data License - India (GODL-India)"
+target_venue: not selected
+revision: 1
