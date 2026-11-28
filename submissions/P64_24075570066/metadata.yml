@@ -1,0 +1,11 @@
+
+problem_number: "P64"
+university_roll_no: 24075570066
+name: "Anshi Pandey"
+paper_title: "Clustering Indian States and Union Territories Based on Forest Cover and Its Changes Using Machine Learning"
+article_type: "Case Study"
+code_repository: "https://github.com/anshipandey446/Forest-Cover-Clustering"
+dataset_source: "State/UT-wise Forest Cover as per India State of Forest Report 2021 - https://ap.data.gov.in/resource/stateuts-wise-forest-cover-india-state-forest-report-isfr-during-2021"
+dataset_licence: "Government Open Data License - India (GODL-India)"
+target_venue: not selected
+revision: 1
